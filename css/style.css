@@ -59,21 +59,21 @@ body {
   width: 400px;
 }
 
-/* My projects */
+/* My projects, my courses*/
 
-.my-projects {
+.my-projects, .my-courses {
   margin: 0 0 50px 0;
 }
 
-.my-project-list {
+.my-project-list, .my-courses-list {
   padding: 0 0 0 17px;
 }
 
-.my-projects-item {
+.my-projects-item, .my-courses-item  {
   color: #000000;
   font-weight: bold;
 }
-.my-projects-link {
+.my-projects-link, .my-courses-link  {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -81,7 +81,7 @@ body {
   color: #595959;
 }
 
-.my-projects-text {
+.my-projects-text, .my-courses-text  {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -89,7 +89,7 @@ body {
   color: #595959;
   margin-left: 5px;
 }
-.my-projects-bracket {
+.my-projects-bracket, .my-courses-bracket {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
